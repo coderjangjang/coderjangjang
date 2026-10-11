@@ -30,7 +30,7 @@
 
   <div class="aero-body">
     <img
-      src="https://raw.githubusercontent.com/coderjangjang/coderjangjang/main/images/banner.png"
+      src="https://raw.githubusercontent.com/coderjangjang/coderjangjang/main/images/banner.jpg"
       alt="Building ideas into reality, one line of code at a time."
       width="100%"
     />
