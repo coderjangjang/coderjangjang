@@ -32,11 +32,11 @@ Python / Web / C#
 ### GitHub Stats
 
 <div align="center">
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api?username=coderjangjang&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=coderjangjang&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderjangjang&layout=compact&theme=transparent&hide_border=true" />
-
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderjangjang&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
 </div>
 
 ---
