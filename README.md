@@ -29,7 +29,7 @@ Python / Web / C#
 
 ---
 
-### GitHub Stats
+### GitHub Stats (disabled)
 
 <div align="center">
   <img height="160"
